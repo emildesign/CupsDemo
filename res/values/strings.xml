@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Cups - Unlimited Coffee</string>
+    <string name="action_settings">Settings</string>
+    <string name="coffee_shops_section">Coffee Shops</string>
+    <string name="map_section">Map</string>
+    
+</resources>

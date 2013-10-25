@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlGridCell"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:background="@drawable/circle" >
+
+    <ImageView
+        android:id="@+id/ivAnswerImage"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ic_launcher"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/tvAnswerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivAnswerImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="this is a very long text"
+        android:textSize="15sp" />
+ 
+</RelativeLayout>

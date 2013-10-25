@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="HOME_BG_COLOR">#E1E1E1</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="BLUE">#0000ff</color>
+    <color name="BLACK">#000000</color>
+    <color name="SILVER">#C0C0C0</color>
+    <color name="RAW_COLOR">#FFFFCC</color>
+    <color name="PINK_BG_COLOR">#E4287C</color>
+    <color name="LIGHTBLUE_BG_COLOR">#00b0d8</color>
+    <color name="bg_thumb_color">#99000000</color>
+    <color name="red">#FF0000</color>
+    <color name="edittextbg">#e7e7e7</color>
+    <color name="button_blue">#33b5e5</color>
+    <color name="cups_color">#00C7D6</color>
+</resources>

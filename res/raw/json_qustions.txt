@@ -1,0 +1,101 @@
+{
+    "Questions":{
+        "Questions_Number": 10,
+        "Questions_Array": [
+            {
+                "Question_Title": "What type of application do you want to build?",
+                "Question_Summary": "Destination Platform",
+                "Question_Answers": [
+                    { "Answer_Text": "iPhone", "Answer_Cost": 100},
+                    { "Answer_Text": "iPad", "Answer_Cost": 150},
+                    { "Answer_Text": "iOS Universal", "Answer_Cost":250},
+                    { "Answer_Text": "Android", "Answer_Cost":200}
+                ]
+            },
+            {
+                "Question_Title": "What type of interface do you want your application to have?",
+                "Question_Summary": "Desired Interface",
+                "Question_Answers": [
+                    { "Answer_Text": "Stock/Default", "Answer_Cost": 10},
+                    { "Answer_Text": "Custom/Brand New", "Answer_Cost": 150},
+                    { "Answer_Text": "Custom/Match Existing Brand", "Answer_Cost":100},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will your application need a login system?",
+                "Question_Summary": "Login System",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes, Social and Email Login", "Answer_Cost": 200},
+                    { "Answer_Text": "Yes, Email Login", "Answer_Cost": 150},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will your application use in-application payments?",
+                "Question_Summary": "In-App Payments",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes", "Answer_Cost": 200},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will your application need to sync data across devices?",
+                "Question_Summary": "Data Synchronization",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes", "Answer_Cost": 200},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will your users rate or review things?",
+                "Question_Summary": "User's Rate/Review",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes", "Answer_Cost": 200},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will your users have their own profiles?",
+                "Question_Summary": "User's Profile",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes", "Answer_Cost": 200},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will your app need to be integrated with a website?",
+                "Question_Summary": "Website Integration",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes", "Answer_Cost": 200},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "Will you need a custom icon for your application?",
+                "Question_Summary": "Custom Icon",
+                "Question_Answers": [
+                    { "Answer_Text": "Yes", "Answer_Cost": 200},
+                    { "Answer_Text": "No", "Answer_Cost":0},
+                    { "Answer_Text": "I Don't Know", "Answer_Cost":50}
+                ]
+            },
+            {
+                "Question_Title": "At what state is your project at?",
+                "Question_Summary": "Project State",
+                "Question_Answers": [
+                    { "Answer_Text": "Idea", "Answer_Cost": 1000},
+                    { "Answer_Text": "Sketches", "Answer_Cost":800},
+                    { "Answer_Text": "In Development", "Answer_Cost":500},
+                    { "Answer_Text": "Prototype Built", "Answer_Cost":300}
+                ]
+            }  
+        ]
+    }
+}
